@@ -1,1 +1,3 @@
 # AirPollution
+A prediction model which used Random Forest algorithm to predict the future air quality based on historic data of pollutants and environment factors. Realized and evaluated the prediction model by MATLAB(Accuracy of prediction results reaches 80%, higher than the traditional physical model, WRF-Chem). The figures showed the comparison between the prediction results and real observations and the RMSE of the prediction results with different lags. I learned the MATLAB independently during this project, so this sample code represents my ability of self-study and quickly applying what I have learned in the real word scenario.
+
